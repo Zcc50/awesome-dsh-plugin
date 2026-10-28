@@ -1,0 +1,7 @@
+url: https://github.com/Zcc50/dsh-session-groups
+name: Zcc50/dsh-session-groups
+category: session
+tarball: https://github.com/Zcc50/dsh-session-groups/releases/latest/download/dsh-session-groups.tgz
+description:
+  en: Splits one workspace's sessions into custom groups, with a sidebar workspace-group-session tree and a management panel.
+  zh: 把同一个工作区里的会话拆成自定义分组，提供侧栏「工作区 → 分组 → 会话」树与管理面板。
