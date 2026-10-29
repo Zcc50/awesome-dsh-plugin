@@ -1,5 +1,5 @@
 url: https://github.com/Zcc50/dsh-workspace-frontend
-name: Zcc50/dsh-workspace-frontend
+name: DSH 工作区前端重建
 category: session
 description:
   en: Rebuilds the sidebar into a workspace / group / session tree with drag-to-group, per-row status and context rings, session cost, and resizable sidebars.
